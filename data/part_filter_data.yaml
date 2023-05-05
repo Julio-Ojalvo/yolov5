@@ -1,0 +1,12 @@
+path: ../datasets/part_filter_data
+train: train.txt
+val: val.txt
+test: test.txt
+
+names:
+        0: door
+        1: fire_extinguisher
+        2: hsr_box
+        3: tv
+        4: poster
+        5: office_door_poster
